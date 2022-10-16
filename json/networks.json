@@ -63,5 +63,25 @@
     "slug": "cronos",
     "title": "Cronos",
     "logo": ""
+  },
+  {
+    "slug": "fuse",
+    "title": "Fuse",
+    "logo": ""
+  },
+  {
+    "slug": "iotex",
+    "title": "IoTeX",
+    "logo": ""
+  },
+  {
+    "slug": "elastos",
+    "title": "Elastos",
+    "logo": ""
+  },
+  {
+    "slug": "kcc",
+    "title": "KCC",
+    "logo": ""
   }
 ]

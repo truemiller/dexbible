@@ -4,7 +4,10 @@
     "title": "Pangolin",
     "logo": "/logos/dexs/pangolin.svg",
     "url": "https://pangolin.exchange",
-    "networks": ["avalanche", "songbird"],
+    "networks": [
+      "avalanche",
+      "songbird"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -13,7 +16,9 @@
     "title": "Trader Joe",
     "logo": "/logos/dexs/trader-joe.png",
     "url": "https://traderjoe.xyz",
-    "networks": ["avalanche"],
+    "networks": [
+      "avalanche"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -22,7 +27,22 @@
     "title": "Elk Finance",
     "logo": "/logos/dexs/elk-finance.svg",
     "url": "https://elk.finance",
-    "networks": ["avalanche", "polygon", "fantom", "ethereum", "bsc"],
+    "networks": [
+      "avalanche",
+      "polygon",
+      "fantom",
+      "ethereum",
+      "bsc",
+      "fuse",
+      "iotex",
+      "elastos",
+      "kcc",
+      "gnosis",
+      "optimism",
+      "arbitrum",
+      "moonriver",
+      "harmony"
+    ],
     "audited": true,
     "rating": 7
   },
@@ -31,7 +51,9 @@
     "title": "PancakeSwap",
     "logo": "/logos/dexs/pancakeswap.svg",
     "url": "https://pancakeswap.finance",
-    "networks": ["bsc"],
+    "networks": [
+      "bsc"
+    ],
     "audited": true,
     "rating": 10
   },
@@ -40,7 +62,11 @@
     "title": "DODO",
     "logo": "/logos/dexs/dodo.webp",
     "url": "https://dodoex.io",
-    "networks": ["bsc", "ethereum", "polygon"],
+    "networks": [
+      "bsc",
+      "ethereum",
+      "polygon"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -49,7 +75,9 @@
     "title": "BiSwap",
     "logo": "/logos/dexs/biswap.webp",
     "url": "https://biswap.org",
-    "networks": ["bsc"],
+    "networks": [
+      "bsc"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -58,7 +86,9 @@
     "title": "Wombat Exchange",
     "logo": "/logos/dexs/wombat-exchange.webp",
     "url": "https://www.wombat.exchange/",
-    "networks": ["bsc"],
+    "networks": [
+      "bsc"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -67,7 +97,9 @@
     "title": "MDEX",
     "logo": "/logos/dexs/mdex.webp",
     "url": "https://mdex.com/",
-    "networks": ["bsc"],
+    "networks": [
+      "bsc"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -76,7 +108,9 @@
     "title": "Platypus Finance",
     "logo": "/logos/dexs/platypus-finance.webp",
     "url": "https://platypus.finance/",
-    "networks": ["avalanche"],
+    "networks": [
+      "avalanche"
+    ],
     "audited": true,
     "rating": 8
   },
@@ -85,7 +119,9 @@
     "title": "HakuSwap",
     "logo": "/logos/dexs/hakuswap.webp",
     "url": "https://hakuswap.com/",
-    "networks": ["avalanche"],
+    "networks": [
+      "avalanche"
+    ],
     "audited": true,
     "rating": 6
   },
@@ -94,7 +130,12 @@
     "title": "Uniswap",
     "logo": "/logos/dexs/uniswap.webp",
     "url": "https://uniswap.org/",
-    "networks": ["ethereum", "optimism", "arbitrum", "polygon"],
+    "networks": [
+      "ethereum",
+      "optimism",
+      "arbitrum",
+      "polygon"
+    ],
     "audited": true,
     "rating": 10
   },
@@ -103,7 +144,15 @@
     "title": "Curve",
     "logo": "/logos/dexs/curve.webp",
     "url": "https://curve.fi/",
-    "networks": ["ethereum", "optimism", "arbitrum", "polygon", "gnosis", "fantom", "avalanche"],
+    "networks": [
+      "ethereum",
+      "optimism",
+      "arbitrum",
+      "polygon",
+      "gnosis",
+      "fantom",
+      "avalanche"
+    ],
     "audited": true,
     "rating": 10
   },
@@ -112,7 +161,11 @@
     "title": "Balancer",
     "logo": "/logos/dexs/balancer.webp",
     "url": "https://balancer.finance/",
-    "networks": ["ethereum", "arbitrum", "polygon"],
+    "networks": [
+      "ethereum",
+      "arbitrum",
+      "polygon"
+    ],
     "audited": true,
     "rating": 10
   },
@@ -121,7 +174,18 @@
     "title": "SushiSwap",
     "logo": "/logos/dexs/sushiswap.webp",
     "url": "https://sushi.com/",
-    "networks": ["ethereum", "arbitrum", "polygon", "gnosis", "avalanche", "fantom", "celo", "moonriver", "bsc", "harmony"],
+    "networks": [
+      "ethereum",
+      "arbitrum",
+      "polygon",
+      "gnosis",
+      "avalanche",
+      "fantom",
+      "celo",
+      "moonriver",
+      "bsc",
+      "harmony"
+    ],
     "audited": true,
     "rating": 10
   },
@@ -130,7 +194,10 @@
     "title": "0x",
     "logo": "/logos/dexs/0x.webp",
     "url": "https://0x.org/",
-    "networks": ["ethereum", "polygon"],
+    "networks": [
+      "ethereum",
+      "polygon"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -139,7 +206,16 @@
     "title": "KyberSwap",
     "logo": "/logos/dexs/kyberswap.webp",
     "url": "https://kyberswap.com/",
-    "networks": ["ethereum", "polygon","fantom","cronos","bsc", "arbitrum", "optimism", "avalanche"],
+    "networks": [
+      "ethereum",
+      "polygon",
+      "fantom",
+      "cronos",
+      "bsc",
+      "arbitrum",
+      "optimism",
+      "avalanche"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -148,7 +224,9 @@
     "title": "QuickSwap DEX",
     "logo": "/logos/dexs/quickswap-dex.webp",
     "url": "https://quickswap.exchange/",
-    "networks": ["polygon"],
+    "networks": [
+      "polygon"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -157,7 +235,9 @@
     "title": "Ubeswap",
     "logo": "/logos/dexs/ubeswap.webp",
     "url": "https://ubeswap.org/",
-    "networks": ["celo"],
+    "networks": [
+      "celo"
+    ],
     "audited": true,
     "rating": 8
   },
@@ -166,7 +246,9 @@
     "title": "Mobius Money",
     "logo": "/logos/dexs/mobius-money.webp",
     "url": "https://www.mobius.money/",
-    "networks": ["celo"],
+    "networks": [
+      "celo"
+    ],
     "audited": true,
     "rating": 6
   },
@@ -175,7 +257,9 @@
     "title": "VVS Finance",
     "logo": "/logos/dexs/vvs-finance.webp",
     "url": "https://vvs.finance/",
-    "networks": ["cronos"],
+    "networks": [
+      "cronos"
+    ],
     "audited": true,
     "rating": 9
   },
@@ -184,7 +268,9 @@
     "title": "Crodex",
     "logo": "/logos/dexs/crodex.webp",
     "url": "https://swap.crodex.app/",
-    "networks": ["cronos"],
+    "networks": [
+      "cronos"
+    ],
     "audited": true,
     "rating": 6
   }
