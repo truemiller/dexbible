@@ -28,5 +28,40 @@
     "slug": "bsc",
     "title": "BSC",
     "logo": ""
+  },
+  {
+    "slug": "optimism",
+    "title": "Optimism",
+    "logo": ""
+  },
+  {
+    "slug": "arbitrum",
+    "title": "Arbitrum",
+    "logo": ""
+  },
+  {
+    "slug": "gnosis",
+    "title": "Gnosis",
+    "logo": ""
+  },
+  {
+    "slug": "moonriver",
+    "title": "Moonriver",
+    "logo": ""
+  },
+  {
+    "slug": "celo",
+    "title": "Celo",
+    "logo": ""
+  },
+  {
+    "slug": "harmony",
+    "title": "Harmony",
+    "logo": ""
+  },
+  {
+    "slug": "cronos",
+    "title": "Cronos",
+    "logo": ""
   }
 ]

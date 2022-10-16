@@ -4,27 +4,188 @@
     "title": "Pangolin",
     "logo": "/logos/dexs/pangolin.svg",
     "url": "https://pangolin.exchange",
-    "networks": ["avalanche", "songbird"]
+    "networks": ["avalanche", "songbird"],
+    "audited": true,
+    "rating": 9
   },
   {
     "slug": "trader-joe",
     "title": "Trader Joe",
     "logo": "/logos/dexs/trader-joe.png",
     "url": "https://traderjoe.xyz",
-    "networks": ["avalanche"]
+    "networks": ["avalanche"],
+    "audited": true,
+    "rating": 9
   },
   {
     "slug": "elk-finance",
     "title": "Elk Finance",
     "logo": "/logos/dexs/elk-finance.svg",
     "url": "https://elk.finance",
-    "networks": ["avalanche", "songbird", "polygon", "fantom", "ethereum", "bsc"]
+    "networks": ["avalanche", "polygon", "fantom", "ethereum", "bsc"],
+    "audited": true,
+    "rating": 7
   },
   {
     "slug": "pancakeswap",
     "title": "PancakeSwap",
     "logo": "/logos/dexs/pancakeswap.svg",
     "url": "https://pancakeswap.finance",
-    "networks": ["bsc"]
+    "networks": ["bsc"],
+    "audited": true,
+    "rating": 10
+  },
+  {
+    "slug": "dodo",
+    "title": "DODO",
+    "logo": "/logos/dexs/dodo.webp",
+    "url": "https://dodoex.io",
+    "networks": ["bsc", "ethereum", "polygon"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "biswap",
+    "title": "BiSwap",
+    "logo": "/logos/dexs/biswap.webp",
+    "url": "https://biswap.org",
+    "networks": ["bsc"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "wombat-exchange",
+    "title": "Wombat Exchange",
+    "logo": "/logos/dexs/wombat-exchange.webp",
+    "url": "https://www.wombat.exchange/",
+    "networks": ["bsc"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "mdex",
+    "title": "MDEX",
+    "logo": "/logos/dexs/mdex.webp",
+    "url": "https://mdex.com/",
+    "networks": ["bsc"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "platypus-finance",
+    "title": "Platypus Finance",
+    "logo": "/logos/dexs/platypus-finance.webp",
+    "url": "https://platypus.finance/",
+    "networks": ["avalanche"],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "hakuswap",
+    "title": "HakuSwap",
+    "logo": "/logos/dexs/hakuswap.webp",
+    "url": "https://hakuswap.com/",
+    "networks": ["avalanche"],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "uniswap",
+    "title": "Uniswap",
+    "logo": "/logos/dexs/uniswap.webp",
+    "url": "https://uniswap.org/",
+    "networks": ["ethereum", "optimism", "arbitrum", "polygon"],
+    "audited": true,
+    "rating": 10
+  },
+  {
+    "slug": "curve",
+    "title": "Curve",
+    "logo": "/logos/dexs/curve.webp",
+    "url": "https://curve.fi/",
+    "networks": ["ethereum", "optimism", "arbitrum", "polygon", "gnosis", "fantom", "avalanche"],
+    "audited": true,
+    "rating": 10
+  },
+  {
+    "slug": "balancer",
+    "title": "Balancer",
+    "logo": "/logos/dexs/balancer.webp",
+    "url": "https://balancer.finance/",
+    "networks": ["ethereum", "arbitrum", "polygon"],
+    "audited": true,
+    "rating": 10
+  },
+  {
+    "slug": "sushiswap",
+    "title": "SushiSwap",
+    "logo": "/logos/dexs/sushiswap.webp",
+    "url": "https://sushi.com/",
+    "networks": ["ethereum", "arbitrum", "polygon", "gnosis", "avalanche", "fantom", "celo", "moonriver", "bsc", "harmony"],
+    "audited": true,
+    "rating": 10
+  },
+  {
+    "slug": "0x",
+    "title": "0x",
+    "logo": "/logos/dexs/0x.webp",
+    "url": "https://0x.org/",
+    "networks": ["ethereum", "polygon"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "kyberswap",
+    "title": "KyberSwap",
+    "logo": "/logos/dexs/kyberswap.webp",
+    "url": "https://kyberswap.com/",
+    "networks": ["ethereum", "polygon","fantom","cronos","bsc", "arbitrum", "optimism", "avalanche"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "quickswap-dex",
+    "title": "QuickSwap DEX",
+    "logo": "/logos/dexs/quickswap-dex.webp",
+    "url": "https://quickswap.exchange/",
+    "networks": ["polygon"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "ubeswap",
+    "title": "Ubeswap",
+    "logo": "/logos/dexs/ubeswap.webp",
+    "url": "https://ubeswap.org/",
+    "networks": ["celo"],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "mobius-money",
+    "title": "Mobius Money",
+    "logo": "/logos/dexs/mobius-money.webp",
+    "url": "https://www.mobius.money/",
+    "networks": ["celo"],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "vvs-finance",
+    "title": "VVS Finance",
+    "logo": "/logos/dexs/vvs-finance.webp",
+    "url": "https://vvs.finance/",
+    "networks": ["cronos"],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "crodex",
+    "title": "Crodex",
+    "logo": "/logos/dexs/crodex.webp",
+    "url": "https://swap.crodex.app/",
+    "networks": ["cronos"],
+    "audited": true,
+    "rating": 6
   }
 ]

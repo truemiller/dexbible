@@ -17,7 +17,7 @@ export default function Home(props) {
 
 	useEffect(()=>{
 		setNetworks(NETWORKS.sort((a,b)=>a.slug>b.slug))
-		setDexs(DEXS.filter(dex=>dex.networks.includes(filter) || filter === ""))
+		setDexs(DEXS.filter(dex=>dex.networks.includes(filter) || filter === "").sort((a,b)=>a.rating<b.rating))
 	},[filter])
 
 	return (
@@ -51,13 +51,14 @@ export default function Home(props) {
 							})}
 						</div>
 					</section>
-					<section className={"container"}>
-						<table className="table bg-white rounded shadow-sm">
+					<section className={"container overflow-auto"}>
+						<table className="table bg-white rounded shadow-sm small">
 							<thead>
 							<tr>
-								<th>#</th>
+								<th width={30}>#</th>
 								<th>Name</th>
 								<th>Networks</th>
+								<th>Audited</th>
 							</tr>
 							</thead>
 							<tbody>
@@ -65,7 +66,7 @@ export default function Home(props) {
 								return <tr key={dex.slug}>
 									<td>{index + 1}</td>
 									<td className={"text-nowrap align-middle text-primary"}>
-										<span><Image src={dex.logo} width={20} height={20} layout={"fixed"}></Image></span>
+										<span ><Image src={dex.logo} width={16} height={16} layout={"fixed"}/></span>
 										<Link href={dex.url}><a className={"ms-2"}>{dex.title}</a></Link>
 									</td>
 									<td>
@@ -73,6 +74,7 @@ export default function Home(props) {
 											return `${networks.find(network => network.slug === networkSlug)?.title}${index + 1 === dex.networks.length ? "" : ", "}`
 										})}
 									</td>
+									<td>{dex.audited ? "Yes" : "No"}</td>
 								</tr>
 							})}
 							</tbody>
