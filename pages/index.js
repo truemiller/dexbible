@@ -17,7 +17,7 @@ export default function Home(props) {
 
 	useEffect(() => {
 		setNetworks(NETWORKS.sort((a, b) => a.slug > b.slug))
-		setDexs(DEXS.filter(dex => dex.networks.includes(filter) || filter === "").sort((a, b) => a.rating < b.rating))
+		setDexs(DEXS.filter(dex => dex.networks.includes(filter) || filter === "").sort((a, b) => a?.rating < b?.rating))
 	}, [filter])
 
 	return (
@@ -70,13 +70,13 @@ export default function Home(props) {
 							<tbody>
 							{dexs.map((dex, index) => {
 								return <tr key={dex.slug}>
-									<td>{index + 1}</td>
+									<td className={"align-middle"}>{index + 1}</td>
 									<td className={"text-nowrap align-middle text-primary"}>
 										<span><Image src={dex.logo} width={16} height={16} layout={"fixed"}/></span>
 										<Link href={dex.url}><a className={"ms-2"}>{dex.title}</a></Link>
 									</td>
-									<td>{dex.rating}</td>
-									<td>
+									<td className={"align-middle"}>{dex.rating}</td>
+									<td className={"align-middle"}>
 										{/*{dex.networks.map((networkSlug, index) => {*/}
 										{/*	return `${networks.find(network => network.slug === networkSlug)?.title}${index + 1 === dex.networks.length ? "" : ", "}`*/}
 										{/*})}*/}
@@ -92,13 +92,18 @@ export default function Home(props) {
 											})
 										}
 									</td>
-									<td>{dex.audited ? "Yes" : "No"}</td>
+									<td className={"align-middle"}>{dex.audited ? "Yes" : "No"}</td>
 								</tr>
 							})}
 							</tbody>
 						</table>
 					</section>
 				</main>
+				<footer className="navbar bg-white">
+					<div className="container">
+						<span>&copy; <Link href={"https://mlxn.ltd"}>MLXN Ltd.</Link> 2022</span>
+					</div>
+				</footer>
 			</div>
 		</>
 	)
