@@ -1,0 +1,70 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url key="avalanche">
+        <loc>https://dex.bible/avalanche</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="ethereum">
+        <loc>https://dex.bible/ethereum</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="songbird">
+        <loc>https://dex.bible/songbird</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="polygon">
+        <loc>https://dex.bible/polygon</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="fantom">
+        <loc>https://dex.bible/fantom</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="bsc">
+        <loc>https://dex.bible/bsc</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="optimism">
+        <loc>https://dex.bible/optimism</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="arbitrum">
+        <loc>https://dex.bible/arbitrum</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="gnosis">
+        <loc>https://dex.bible/gnosis</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="moonriver">
+        <loc>https://dex.bible/moonriver</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="celo">
+        <loc>https://dex.bible/celo</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="harmony">
+        <loc>https://dex.bible/harmony</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="cronos">
+        <loc>https://dex.bible/cronos</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="fuse">
+        <loc>https://dex.bible/fuse</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="iotex">
+        <loc>https://dex.bible/iotex</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="elastos">
+        <loc>https://dex.bible/elastos</loc>
+        <priority>1.0</priority>
+    </url>
+    <url key="kcc">
+        <loc>https://dex.bible/kcc</loc>
+        <priority>1.0</priority>
+    </url>
+</urlset>
