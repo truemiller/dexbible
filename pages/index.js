@@ -50,7 +50,7 @@ export default function Home(props) {
 						<div className="container mt-3">
 							{networks.map((network) => {
 								return <Link href={`/${network.slug}`} key={network.slug}>
-									<a className={`btn btn-sm bg-white shadow-sm me-2 mb-2 ${filter===network.slug?"active":""}`}
+									<a className={`btn btn-sm bg-white shadow-sm me-2 mb-2 ${filter === network.slug ? "active" : ""}`}
 									   onClick={() => setFilter(network.slug)}>{network.title}</a>
 								</Link>
 							})}
@@ -72,7 +72,8 @@ export default function Home(props) {
 								return <tr key={dex.slug}>
 									<td className={"align-middle"}>{index + 1}</td>
 									<td className={"text-nowrap align-middle text-primary"}>
-										<span><Image src={dex.logo} width={16} height={16} layout={"fixed"}/></span>
+										<span><Image src={dex.logo} width={16} height={16} layout={"fixed"} alt={`${dex.title} logo.`}
+										             title={`${dex.title}`}/></span>
 										<Link href={dex.url}><a className={"ms-2"}>{dex.title}</a></Link>
 									</td>
 									<td className={"align-middle"}>{dex.rating}</td>
@@ -88,6 +89,7 @@ export default function Home(props) {
 													src={`${networks.find(network => network.slug === networkSlug)?.logo}`}
 													width={20} height={20} layout={"fixed"}
 													alt={`${networks.find(network => network.slug === networkSlug)?.title} logo`}
+													title={`${networks.find(network => network.slug === networkSlug)?.title}`}
 												/>
 											})
 										}
