@@ -348,7 +348,128 @@
     "networks": [
       "solana"
     ],
+    "audited": false,
+    "rating": 9
+  },
+  {
+    "slug": "raydium",
+    "title": "Raydium",
+    "logo": "/logos/dexs/raydium.webp",
+    "url": "https://raydium.io/",
+    "networks": [
+      "solana"
+    ],
+    "audited": false,
+    "rating": 8
+  },
+  {
+    "slug": "osmosis",
+    "title": "Osmosis",
+    "logo": "/logos/dexs/osmosis.webp",
+    "url": "https://osmosis.zone/",
+    "networks": [
+      "cosmos"
+    ],
+    "audited": false,
+    "rating": 9
+  },
+  {
+    "slug": "defi-swap",
+    "title": "Defi Swap",
+    "logo": "/logos/dexs/defi-swap.webp",
+    "url": "https://crypto.com/defi/swap",
+    "networks": [
+      "cronos"
+    ],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "solarbeam",
+    "title": "Solarbeam",
+    "logo": "/logos/dexs/solarbeam.webp",
+    "url": "https://app.solarbeam.io/exchange/swap",
+    "networks": [
+      "moonriver"
+    ],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "frax-swap",
+    "title": "Frax Swap",
+    "logo": "/logos/dexs/frax.webp",
+    "url": "https://app.solarbeam.io/exchange/swap",
+    "networks": [
+      "moonriver","arbitrum", "aurora", "avalanche", "boba", "bsc", "fantom", "harmony", "moonbeam", "optimism", "polygon"
+    ],
     "audited": true,
     "rating": 9
+  },
+  {
+    "slug": "oolongswap",
+    "title": "OolongSwap",
+    "logo": "/logos/dexs/oolongswap.webp",
+    "url": "https://oolongswap.com/#/",
+    "networks": [
+     "boba"
+    ],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "beethoven-x",
+    "title": "Beethoven X",
+    "logo": "/logos/dexs/beethoven-x.webp",
+    "url": "https://www.beethovenx.io/",
+    "networks": [
+     "fantom"
+    ],
+    "audited": false,
+    "rating": 8
+  },
+  {
+    "slug": "tomb-swap",
+    "title": "Tomb Swap",
+    "logo": "/logos/dexs/tomb-finance.webp",
+    "url": "https://tomb.finance/",
+    "networks": [
+     "fantom"
+    ],
+    "audited": false,
+    "rating": 8
+  },
+  {
+    "slug": "mimo",
+    "title": "Mimo",
+    "logo": "/logos/dexs/mimo.webp",
+    "url": "https://mimo.exchange/",
+    "networks": [
+     "iotex"
+    ],
+    "audited": false,
+    "rating": 7
+  },
+  {
+    "slug": "serum",
+    "title": "Serum",
+    "logo": "/logos/dexs/serum.webp",
+    "url": "https://projectserum.com/",
+    "networks": [
+     "solana"
+    ],
+    "audited": false,
+    "rating": 8
+  },
+  {
+    "slug": "saber",
+    "title": "Saber",
+    "logo": "/logos/dexs/saber.webp",
+    "url": "https://saber.so/",
+    "networks": [
+     "solana"
+    ],
+    "audited": false,
+    "rating": 7
   }
 ]

@@ -93,5 +93,20 @@
     "slug": "solana",
     "title": "Solana",
     "logo": ""
+  },
+  {
+    "slug": "cosmos",
+    "title": "Cosmos",
+    "logo": ""
+  },
+  {
+    "slug": "boba",
+    "title": "Boba",
+    "logo": ""
+  },
+  {
+    "slug": "moonbeam",
+    "title": "Moonbeam",
+    "logo": ""
   }
 ]
