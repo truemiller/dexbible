@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "avalanche",
+    "title": "Avalanche",
+    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+  },
+  {
+    "slug": "ethereum",
+    "title": "Ethereum",
+    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+  },
+  {
+    "slug": "songbird",
+    "title": "Songbird",
+    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+  },
+  {
+    "slug": "polygon",
+    "title": "Polygon",
+    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+  },
+  {
+    "slug": "fantom",
+    "title": "Fantom",
+    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+  },
+  {
+    "slug": "bsc",
+    "title": "BSC",
+    "logo": ""
+  }
+]

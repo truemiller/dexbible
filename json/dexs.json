@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "pangolin",
+    "title": "Pangolin",
+    "logo": "/logos/dexs/pangolin.svg",
+    "url": "https://pangolin.exchange",
+    "networks": ["avalanche", "songbird"]
+  },
+  {
+    "slug": "trader-joe",
+    "title": "Trader Joe",
+    "logo": "/logos/dexs/trader-joe.png",
+    "url": "https://traderjoe.xyz",
+    "networks": ["avalanche"]
+  },
+  {
+    "slug": "elk-finance",
+    "title": "Elk Finance",
+    "logo": "/logos/dexs/elk-finance.svg",
+    "url": "https://elk.finance",
+    "networks": ["avalanche", "songbird", "polygon", "fantom", "ethereum", "bsc"]
+  },
+  {
+    "slug": "pancakeswap",
+    "title": "PancakeSwap",
+    "logo": "/logos/dexs/pancakeswap.svg",
+    "url": "https://pancakeswap.finance",
+    "networks": ["bsc"]
+  }
+]

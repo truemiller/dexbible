@@ -8,7 +8,5 @@ export default function FilteredPage() {
 	const { slug } = router.query
 	if (NETWORKS.find(network=>network.slug===slug)) {
 		return <Home initialFilter={slug}/>
-	} else {
-		return <h1>404 - Page Not Found</h1>
 	}
 }
