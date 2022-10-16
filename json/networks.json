@@ -108,5 +108,15 @@
     "slug": "moonbeam",
     "title": "Moonbeam",
     "logo": ""
+  },
+  {
+    "slug": "ontology",
+    "title": "Ontology",
+    "logo": ""
+  },
+  {
+    "slug": "icon",
+    "title": "Icon",
+    "logo": ""
   }
 ]

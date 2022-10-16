@@ -324,7 +324,16 @@
     "logo": "/logos/dexs/unifi.webp",
     "url": "https://unifiprotocol.com/",
     "networks": [
-      "tron"
+      "bsc",
+      "ethereum",
+      "harmony",
+      "ontology",
+      "polygon",
+      "iotex",
+      "fantom",
+      "icon",
+      "tron",
+      "avalanche"
     ],
     "audited": true,
     "rating": 6
@@ -401,7 +410,17 @@
     "logo": "/logos/dexs/frax.webp",
     "url": "https://app.solarbeam.io/exchange/swap",
     "networks": [
-      "moonriver","arbitrum", "aurora", "avalanche", "boba", "bsc", "fantom", "harmony", "moonbeam", "optimism", "polygon"
+      "moonriver",
+      "arbitrum",
+      "aurora",
+      "avalanche",
+      "boba",
+      "bsc",
+      "fantom",
+      "harmony",
+      "moonbeam",
+      "optimism",
+      "polygon"
     ],
     "audited": true,
     "rating": 9
@@ -412,7 +431,7 @@
     "logo": "/logos/dexs/oolongswap.webp",
     "url": "https://oolongswap.com/#/",
     "networks": [
-     "boba"
+      "boba"
     ],
     "audited": true,
     "rating": 6
@@ -423,7 +442,8 @@
     "logo": "/logos/dexs/beethoven-x.webp",
     "url": "https://www.beethovenx.io/",
     "networks": [
-     "fantom"
+      "fantom",
+      "optimism"
     ],
     "audited": false,
     "rating": 8
@@ -434,7 +454,7 @@
     "logo": "/logos/dexs/tomb-finance.webp",
     "url": "https://tomb.finance/",
     "networks": [
-     "fantom"
+      "fantom"
     ],
     "audited": false,
     "rating": 8
@@ -445,7 +465,7 @@
     "logo": "/logos/dexs/mimo.webp",
     "url": "https://mimo.exchange/",
     "networks": [
-     "iotex"
+      "iotex"
     ],
     "audited": false,
     "rating": 7
@@ -456,7 +476,7 @@
     "logo": "/logos/dexs/serum.webp",
     "url": "https://projectserum.com/",
     "networks": [
-     "solana"
+      "solana"
     ],
     "audited": false,
     "rating": 8
@@ -467,9 +487,71 @@
     "logo": "/logos/dexs/saber.webp",
     "url": "https://saber.so/",
     "networks": [
-     "solana"
+      "solana"
     ],
     "audited": false,
+    "rating": 7
+  },
+  {
+    "slug": "lifinity",
+    "title": "Lifinity",
+    "logo": "/logos/dexs/lifinity.webp",
+    "url": "https://lifinity.io/",
+    "networks": [
+      "solana"
+    ],
+    "audited": false,
+    "rating": 7
+  },
+  {
+    "slug": "aldrin",
+    "title": "Aldrin",
+    "logo": "/logos/dexs/aldrin.webp",
+    "url": "https://aldrin.com/",
+    "networks": [
+      "solana"
+    ],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "crema-finance",
+    "title": "Crema Finance",
+    "logo": "/logos/dexs/crema-finance.webp",
+    "url": "https://crema.finance/",
+    "networks": [
+      "solana"
+    ],
+    "audited": false,
+    "rating": 6
+  },
+  {
+    "slug": "clipper",
+    "title": "Clipper",
+    "logo": "/logos/dexs/clipper.webp",
+    "url": "https://clipper.exchange/",
+    "networks": [
+      "polygon",
+      "optimism",
+      "ethereum"
+    ],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "hashflow",
+    "title": "Hashflow",
+    "logo": "/logos/dexs/hashflow.webp",
+    "url": "https://www.hashflow.com/",
+    "networks": [
+      "polygon",
+      "optimism",
+      "ethereum",
+      "bsc",
+      "arbitrum",
+      "avalanche"
+    ],
+    "audited": true,
     "rating": 7
   }
 ]
