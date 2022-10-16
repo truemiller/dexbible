@@ -2,121 +2,121 @@
   {
     "slug": "avalanche",
     "title": "Avalanche",
-    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+    "logo": "/logos/chains/avalanche.webp"
   },
   {
     "slug": "ethereum",
     "title": "Ethereum",
-    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+    "logo": "/logos/chains/ethereum.webp"
   },
   {
     "slug": "songbird",
     "title": "Songbird",
-    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+    "logo": "/logos/chains/songbird.webp"
   },
   {
     "slug": "polygon",
     "title": "Polygon",
-    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+    "logo": "/logos/chains/polygon.webp"
   },
   {
     "slug": "fantom",
     "title": "Fantom",
-    "logo": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=023"
+    "logo": "/logos/chains/fantom.webp"
   },
   {
     "slug": "bsc",
     "title": "BSC",
-    "logo": ""
+    "logo": "/logos/chains/bsc.webp"
   },
   {
     "slug": "optimism",
     "title": "Optimism",
-    "logo": ""
+    "logo": "/logos/chains/optimism.webp"
   },
   {
     "slug": "arbitrum",
     "title": "Arbitrum",
-    "logo": ""
+    "logo": "/logos/chains/arbitrum.webp"
   },
   {
     "slug": "gnosis",
     "title": "Gnosis",
-    "logo": ""
+    "logo": "/logos/chains/gnosis.webp"
   },
   {
     "slug": "moonriver",
     "title": "Moonriver",
-    "logo": ""
+    "logo": "/logos/chains/moonriver.webp"
   },
   {
     "slug": "celo",
     "title": "Celo",
-    "logo": ""
+    "logo": "/logos/chains/celo.webp"
   },
   {
     "slug": "harmony",
     "title": "Harmony",
-    "logo": ""
+    "logo": "/logos/chains/harmony.webp"
   },
   {
     "slug": "cronos",
     "title": "Cronos",
-    "logo": ""
+    "logo": "/logos/chains/cronos.webp"
   },
   {
     "slug": "fuse",
     "title": "Fuse",
-    "logo": ""
+    "logo": "/logos/chains/fuse.webp"
   },
   {
     "slug": "iotex",
     "title": "IoTeX",
-    "logo": ""
+    "logo": "/logos/chains/iotex.webp"
   },
   {
     "slug": "elastos",
     "title": "Elastos",
-    "logo": ""
+    "logo": "/logos/chains/elastos.webp"
   },
   {
     "slug": "kcc",
     "title": "KCC",
-    "logo": ""
+    "logo": "/logos/chains/kcc.webp"
   },
   {
     "slug": "tron",
     "title": "Tron",
-    "logo": ""
+    "logo": "/logos/chains/tron.webp"
   },
   {
     "slug": "solana",
     "title": "Solana",
-    "logo": ""
+    "logo": "/logos/chains/solana.webp"
   },
   {
     "slug": "cosmos",
     "title": "Cosmos",
-    "logo": ""
+    "logo": "/logos/chains/cosmos.webp"
   },
   {
     "slug": "boba",
     "title": "Boba",
-    "logo": ""
+    "logo": "/logos/chains/boba.webp"
   },
   {
     "slug": "moonbeam",
     "title": "Moonbeam",
-    "logo": ""
+    "logo": "/logos/chains/moonbeam.webp"
   },
   {
     "slug": "ontology",
     "title": "Ontology",
-    "logo": ""
+    "logo": "/logos/chains/ontology.webp"
   },
   {
     "slug": "icon",
     "title": "Icon",
-    "logo": ""
+    "logo": "/logos/chains/icon.webp"
   }
 ]

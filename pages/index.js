@@ -72,9 +72,19 @@ export default function Home(props) {
 									</td>
 									<td>{dex.rating}</td>
 									<td>
-										{dex.networks.map((networkSlug, index) => {
-											return `${networks.find(network => network.slug === networkSlug)?.title}${index + 1 === dex.networks.length ? "" : ", "}`
-										})}
+										{/*{dex.networks.map((networkSlug, index) => {*/}
+										{/*	return `${networks.find(network => network.slug === networkSlug)?.title}${index + 1 === dex.networks.length ? "" : ", "}`*/}
+										{/*})}*/}
+										{
+											dex.networks.sort().map((networkSlug, index)=>{
+												return <Image
+													style={{borderRadius: "100%"}}
+													src={`/logos/chains/${networkSlug}.webp`}
+													width={20} height={20} layout={"fixed"}
+													alt={`${networks.find(network=>network.slug===networkSlug)?.title} logo`}
+												/>
+											})
+										}
 									</td>
 									<td>{dex.audited ? "Yes" : "No"}</td>
 								</tr>
