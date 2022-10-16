@@ -49,7 +49,7 @@ export default function Home(props) {
 						<div className="container mt-3">
 							{networks.map((network) => {
 								return <Link href={`/${network.slug}`} key={network.slug}>
-									<a className="btn bg-white shadow-sm me-2 mb-2"
+									<a className={`btn btn-sm bg-white shadow-sm me-2 mb-2 ${filter===network.slug?"active":""}`}
 									   onClick={() => setFilter(network.slug)}>{network.title}</a>
 								</Link>
 							})}
@@ -84,7 +84,7 @@ export default function Home(props) {
 												return <Image
 													key={networkSlug}
 													style={{borderRadius: "100%"}}
-													src={`/logos/chains/${networkSlug}.webp`}
+													src={`${networks.find(network => network.slug === networkSlug)?.logo}`}
 													width={20} height={20} layout={"fixed"}
 													alt={`${networks.find(network => network.slug === networkSlug)?.title} logo`}
 												/>

@@ -579,5 +579,164 @@
     ],
     "audited": true,
     "rating": 8
+  },
+  {
+    "slug": "swapr",
+    "title": "Swapr",
+    "logo": "/logos/dexs/swapr.webp",
+    "url": "https://swapr.eth.link/#/swap",
+    "networks": [
+      "arbitrum",
+      "ethereum",
+      "gnosis"
+    ],
+    "audited": true,
+    "rating": 7
+  },
+  {
+    "slug": "saddle-finance",
+    "title": "Saddle Finance",
+    "logo": "/logos/dexs/saddle-finance.webp",
+    "url": "https://saddle.finance/",
+    "networks": [
+      "arbitrum",
+      "ethereum"
+    ],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "bancor",
+    "title": "Bancor",
+    "logo": "/logos/dexs/bancor.webp",
+    "url": "https://app.bancor.network/",
+    "networks": [
+      "ethereum"
+    ],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "shibaswap",
+    "title": "ShibaSwap",
+    "logo": "/logos/dexs/shibaswap.webp",
+    "url": "https://shibaswap.com/",
+    "networks": [
+      "ethereum"
+    ],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "templedao",
+    "title": "TempleDAO",
+    "logo": "/logos/dexs/templedao.webp",
+    "url": "https://templedao.link/dapp/trade",
+    "networks": [
+      "ethereum"
+    ],
+    "audited": false,
+    "rating": 6
+  },
+  {
+    "slug": "dfx-finance",
+    "title": "DFX Finance",
+    "logo": "/logos/dexs/dfx-finance.webp",
+    "url": "https://app.dfx.finance/",
+    "networks": [
+      "ethereum"
+    ],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "mooniswap",
+    "title": "MooniSwap",
+    "logo": "/logos/dexs/mooniswap.webp",
+    "url": "https://mooniswap.exchange/#/swap",
+    "networks": [
+      "ethereum"
+    ],
+    "audited": true,
+    "rating": 5
+  },
+  {
+    "slug": "defiplaza",
+    "title": "DefiPlaza",
+    "logo": "/logos/dexs/defiplaza.svg",
+    "url": "https://defiplaza.net/",
+    "networks": [
+      "ethereum"
+    ],
+    "audited": true,
+    "rating": 5
+  },
+  {
+    "slug": "radioshack",
+    "title": "RadioShack",
+    "logo": "/logos/dexs/radioshack.webp",
+    "url": "https://www.radioshack.org/",
+    "networks": [
+      "ethereum",
+      "fantom",
+      "avalanche",
+      "polygon",
+      "bsc"
+    ],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "wardenswap",
+    "title": "WardenSwap",
+    "logo": "/logos/dexs/wardenswap.webp",
+    "url": "https://www.wardenswap.com/",
+    "networks": [
+      "polygon",
+      "ethereum",
+      "arbitrum",
+      "bsc",
+      "optimism"
+    ],
+    "audited": true,
+    "rating": 5
+  },
+  {
+    "slug": "apeswap",
+    "title": "ApeSwap",
+    "logo": "/logos/dexs/apeswap.webp",
+    "url": "https://apeswap.finance/",
+    "networks": [
+      "ethereum",
+      "bsc"
+    ],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "yoshi-exchange",
+    "title": "Yoshi Exchange",
+    "logo": "/logos/dexs/yoshi-exchange.webp",
+    "url": "https://yoshi.exchange/",
+    "networks": [
+      "ethereum",
+      "bsc",
+      "fantom"
+    ],
+    "audited": true,
+    "rating": 5
+  },
+  {
+    "slug": "openleverage",
+    "title": "OpenLeverage",
+    "logo": "/logos/dexs/openleverage.webp",
+    "url": "https://openleverage.finance/",
+    "networks": [
+      "ethereum",
+      "bsc",
+      "kcc"
+    ],
+    "audited": true,
+    "rating": 7
   }
 ]
