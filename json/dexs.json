@@ -306,5 +306,27 @@
     ],
     "audited": true,
     "rating": 7
+  },
+  {
+    "slug": "sunswap",
+    "title": "SUNSwap",
+    "logo": "/logos/dexs/sunswap.webp",
+    "url": "https://sunswap.com/#/home",
+    "networks": [
+      "tron"
+    ],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "unifi",
+    "title": "Unifi",
+    "logo": "/logos/dexs/unifi.webp",
+    "url": "https://unifiprotocol.com/",
+    "networks": [
+      "tron"
+    ],
+    "audited": true,
+    "rating": 6
   }
 ]
