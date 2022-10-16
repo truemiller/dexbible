@@ -52,7 +52,7 @@ export default function Home(props) {
 						</div>
 					</section>
 					<section className={"container overflow-auto"}>
-						<table className="table bg-white rounded shadow-sm small">
+						<table className="table table-hover bg-white rounded shadow-sm small">
 							<thead>
 							<tr>
 								<th width={30}>#</th>
