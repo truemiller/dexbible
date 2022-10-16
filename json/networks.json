@@ -118,5 +118,10 @@
     "slug": "icon",
     "title": "Icon",
     "logo": "/logos/chains/icon.webp"
+  },
+  {
+    "slug": "aurora",
+    "title": "Aurora",
+    "logo": "/logos/chains/aurora.webp"
   }
 ]
