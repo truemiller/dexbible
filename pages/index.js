@@ -32,7 +32,7 @@ export default function Home(props) {
 				      content={`Find our list of ${dexs.length} DEXs${filter ? " on " + networks.find(network => network.slug === filter)?.title : ""}.`}/>
 				<meta name={"keywords"} content={`dex bible, ${filter + " "}dex list, ${filter + " "}dexs`}/>
 			</Head>
-			<div className={"bg-light min-vh-100"}>
+			<div className={"bg-light min-vh-100 d-flex flex-column"}>
 				<nav className="navbar bg-white">
 					<div className="container">
 						<Link href={"/"}><a className="navbar-brand">📖 DEX Bible</a></Link>
@@ -101,7 +101,7 @@ export default function Home(props) {
 						</table>
 					</section>
 				</main>
-				<footer className="navbar bg-white">
+				<footer className="navbar bg-white mt-auto">
 					<div className="container">
 						<span>&copy; <Link href={"https://mlxn.ltd"}>MLXN Ltd.</Link> 2022</span>
 					</div>
