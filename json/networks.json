@@ -128,5 +128,10 @@
     "slug": "bittorrent",
     "title": "BitTorrent",
     "logo": "/logos/chains/bittorrent.png"
+  },
+  {
+    "slug": "cardano",
+    "title": "Cardano",
+    "logo": "/logos/chains/cardano.webp"
   }
 ]

@@ -36,6 +36,7 @@ export default function Home(props) {
 				<nav className="navbar bg-white">
 					<div className="container">
 						<Link href={"/"}><a className="navbar-brand">📖 DEX Bible</a></Link>
+						<Link href={"https://t.me/truemiller1"}><a className="nav-link">Contact</a></Link>
 					</div>
 				</nav>
 				<main>

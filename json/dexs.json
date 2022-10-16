@@ -337,7 +337,8 @@
       "fantom",
       "icon",
       "tron",
-      "avalanche"
+      "avalanche",
+      "bittorrent"
     ],
     "audited": true,
     "rating": 6
@@ -739,6 +740,28 @@
       "ethereum",
       "bsc",
       "kcc"
+    ],
+    "audited": true,
+    "rating": 7
+  },
+  {
+    "slug": "minswap",
+    "title": "Minswap",
+    "logo": "/logos/dexs/minswap.webp",
+    "url": "https://minswap.org/",
+    "networks": [
+      "cardano"
+    ],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "wingriders",
+    "title": "WingRiders",
+    "logo": "/logos/dexs/wingriders.webp",
+    "url": "https://www.wingriders.com/",
+    "networks": [
+      "cardano"
     ],
     "audited": true,
     "rating": 7
