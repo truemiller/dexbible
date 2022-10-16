@@ -273,5 +273,38 @@
     ],
     "audited": true,
     "rating": 6
+  },
+  {
+    "slug": "glide-finance",
+    "title": "Glide Finance",
+    "logo": "/logos/dexs/glide-finance.webp",
+    "url": "https://glide.finance/",
+    "networks": [
+      "elastos"
+    ],
+    "audited": true,
+    "rating": 6
+  },
+  {
+    "slug": "spookyswap",
+    "title": "SpookySwap",
+    "logo": "/logos/dexs/spookyswap.webp",
+    "url": "https://spooky.fi/",
+    "networks": [
+      "fantom"
+    ],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "voltage",
+    "title": "Voltage",
+    "logo": "/logos/dexs/voltage.webp",
+    "url": "https://voltage.finance/",
+    "networks": [
+      "fuse"
+    ],
+    "audited": true,
+    "rating": 7
   }
 ]

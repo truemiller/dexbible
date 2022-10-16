@@ -57,6 +57,7 @@ export default function Home(props) {
 							<tr>
 								<th width={30}>#</th>
 								<th>Name</th>
+								<th>Rating</th>
 								<th>Networks</th>
 								<th>Audited</th>
 							</tr>
@@ -69,6 +70,7 @@ export default function Home(props) {
 										<span ><Image src={dex.logo} width={16} height={16} layout={"fixed"}/></span>
 										<Link href={dex.url}><a className={"ms-2"}>{dex.title}</a></Link>
 									</td>
+									<td>{dex.rating}</td>
 									<td>
 										{dex.networks.map((networkSlug, index) => {
 											return `${networks.find(network => network.slug === networkSlug)?.title}${index + 1 === dex.networks.length ? "" : ", "}`
