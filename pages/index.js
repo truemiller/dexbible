@@ -78,6 +78,7 @@ export default function Home(props) {
 										{
 											dex.networks.sort().map((networkSlug, index)=>{
 												return <Image
+													key={networkSlug}
 													style={{borderRadius: "100%"}}
 													src={`/logos/chains/${networkSlug}.webp`}
 													width={20} height={20} layout={"fixed"}
