@@ -553,5 +553,31 @@
     ],
     "audited": true,
     "rating": 7
+  },
+  {
+    "slug": "woofi",
+    "title": "WOOFi",
+    "logo": "/logos/dexs/woofi.webp",
+    "url": "https://www.hashflow.com/",
+    "networks": [
+      "bsc",
+      "avalanche",
+      "fantom",
+      "polygon"
+    ],
+    "audited": true,
+    "rating": 8
+  },
+  {
+    "slug": "gmx",
+    "title": "GMX",
+    "logo": "/logos/dexs/gmx.webp",
+    "url": "https://www.hashflow.com/",
+    "networks": [
+      "arbitrum",
+      "avalanche"
+    ],
+    "audited": true,
+    "rating": 8
   }
 ]
