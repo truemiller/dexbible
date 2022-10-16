@@ -88,5 +88,10 @@
     "slug": "tron",
     "title": "Tron",
     "logo": ""
+  },
+  {
+    "slug": "solana",
+    "title": "Solana",
+    "logo": ""
   }
 ]

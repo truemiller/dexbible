@@ -328,5 +328,27 @@
     ],
     "audited": true,
     "rating": 6
+  },
+  {
+    "slug": "jupiter-aggregator",
+    "title": "Jupiter Aggregator",
+    "logo": "/logos/dexs/unifi.webp",
+    "url": "https://jup.ag/",
+    "networks": [
+      "solana"
+    ],
+    "audited": true,
+    "rating": 9
+  },
+  {
+    "slug": "orca",
+    "title": "Orca",
+    "logo": "/logos/dexs/orca.webp",
+    "url": "https://www.orca.so/",
+    "networks": [
+      "solana"
+    ],
+    "audited": true,
+    "rating": 9
   }
 ]
