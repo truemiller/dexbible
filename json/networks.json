@@ -123,5 +123,10 @@
     "slug": "aurora",
     "title": "Aurora",
     "logo": "/logos/chains/aurora.webp"
+  },
+  {
+    "slug": "bittorrent",
+    "title": "BitTorrent",
+    "logo": "/logos/chains/bittorrent.png"
   }
 ]

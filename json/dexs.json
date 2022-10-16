@@ -65,7 +65,9 @@
     "networks": [
       "bsc",
       "ethereum",
-      "polygon"
+      "polygon",
+      "aurora",
+      "arbitrum"
     ],
     "audited": true,
     "rating": 9
@@ -214,7 +216,9 @@
       "bsc",
       "arbitrum",
       "optimism",
-      "avalanche"
+      "avalanche",
+      "aurora",
+      "bittorrent"
     ],
     "audited": true,
     "rating": 9

@@ -99,5 +99,9 @@
         <loc>https://dex.bible/aurora</loc>
         <priority>1.0</priority>
     </url>
+    <url>
+        <loc>https://dex.bible/bittorrent</loc>
+        <priority>1.0</priority>
+    </url>
 
 </urlset>
