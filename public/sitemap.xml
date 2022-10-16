@@ -1,70 +1,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url key="avalanche">
+    <url>
         <loc>https://dex.bible/avalanche</loc>
         <priority>1.0</priority>
     </url>
-    <url key="ethereum">
+    <url>
         <loc>https://dex.bible/ethereum</loc>
         <priority>1.0</priority>
     </url>
-    <url key="songbird">
+    <url>
         <loc>https://dex.bible/songbird</loc>
         <priority>1.0</priority>
     </url>
-    <url key="polygon">
+    <url>
         <loc>https://dex.bible/polygon</loc>
         <priority>1.0</priority>
     </url>
-    <url key="fantom">
+    <url>
         <loc>https://dex.bible/fantom</loc>
         <priority>1.0</priority>
     </url>
-    <url key="bsc">
+    <url>
         <loc>https://dex.bible/bsc</loc>
         <priority>1.0</priority>
     </url>
-    <url key="optimism">
+    <url>
         <loc>https://dex.bible/optimism</loc>
         <priority>1.0</priority>
     </url>
-    <url key="arbitrum">
+    <url>
         <loc>https://dex.bible/arbitrum</loc>
         <priority>1.0</priority>
     </url>
-    <url key="gnosis">
+    <url>
         <loc>https://dex.bible/gnosis</loc>
         <priority>1.0</priority>
     </url>
-    <url key="moonriver">
+    <url>
         <loc>https://dex.bible/moonriver</loc>
         <priority>1.0</priority>
     </url>
-    <url key="celo">
+    <url>
         <loc>https://dex.bible/celo</loc>
         <priority>1.0</priority>
     </url>
-    <url key="harmony">
+    <url>
         <loc>https://dex.bible/harmony</loc>
         <priority>1.0</priority>
     </url>
-    <url key="cronos">
+    <url>
         <loc>https://dex.bible/cronos</loc>
         <priority>1.0</priority>
     </url>
-    <url key="fuse">
+    <url>
         <loc>https://dex.bible/fuse</loc>
         <priority>1.0</priority>
     </url>
-    <url key="iotex">
+    <url>
         <loc>https://dex.bible/iotex</loc>
         <priority>1.0</priority>
     </url>
-    <url key="elastos">
+    <url>
         <loc>https://dex.bible/elastos</loc>
         <priority>1.0</priority>
     </url>
-    <url key="kcc">
+    <url>
         <loc>https://dex.bible/kcc</loc>
         <priority>1.0</priority>
     </url>
+    <url>
+        <loc>https://dex.bible/tron</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dex.bible/solana</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dex.bible/cosmos</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dex.bible/boba</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dex.bible/moonbeam</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dex.bible/ontology</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dex.bible/icon</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dex.bible/aurora</loc>
+        <priority>1.0</priority>
+    </url>
+
 </urlset>
