@@ -17,7 +17,9 @@ export default function Home(props) {
 
 	useEffect(() => {
 		setNetworks(NETWORKS.sort((a, b) => a.slug > b.slug))
-		setDexs(DEXS.filter(dex => dex.networks.includes(filter) || filter === "").sort((a, b) => a?.rating < b?.rating))
+		const filteredDexs = DEXS.filter(dex => dex.networks.includes(filter) || filter === "")
+		const sortedDexs = filteredDexs.sort((a, b) => b?.rating - a?.rating)
+		setDexs(sortedDexs)
 	}, [filter])
 
 	return (
