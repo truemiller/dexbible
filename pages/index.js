@@ -66,6 +66,7 @@ export default function Home(props) {
 								<th width={200}>Name</th>
 								<th>Rating</th>
 								<th>Networks</th>
+								<th className={"text-nowrap"}>Native Token</th>
 								<th>Audited</th>
 							</tr>
 							</thead>
@@ -96,6 +97,7 @@ export default function Home(props) {
 											})
 										}
 									</td>
+									<td>{dex.native_token}</td>
 									<td className={"align-middle"}>{dex.audited ? "Yes" : "No"}</td>
 								</tr>
 							})}
