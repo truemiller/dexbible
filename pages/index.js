@@ -74,10 +74,10 @@ export default function Home(props) {
 							{dexs.map((dex, index) => {
 								return <tr key={dex.slug}>
 									<td className={"align-middle"}>{index + 1}</td>
-									<td className={"text-nowrap align-middle text-primary"}>
-										<span className={"align-middle"}><Image className={"rounded-circle border border-dark shadow"} src={dex.logo} width={20} height={20} layout={"fixed"} alt={`${dex.title} logo.`}
+									<td className={"text-nowrap align-middle text-primary fw-bold"}>
+										<span className={"align-middle"}><Image className={"rounded-circle border border-dark"} src={dex.logo} width={20} height={20} layout={"fixed"} alt={`${dex.title} logo.`}
 										             title={`${dex.title}`}/></span>
-										<Link href={dex.url}><a className={"ms-2"}>{dex.title}</a></Link>
+										<Link href={dex.url}><a className={"ms-2 text-decoration-none"}>{dex.title}</a></Link>
 									</td>
 									<td className={"align-middle"}>{dex.rating}</td>
 									<td className={"align-middle"}>
