@@ -9,7 +9,8 @@
       "songbird"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "PNG"
   },
   {
     "slug": "trader-joe",
@@ -20,7 +21,8 @@
       "avalanche"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "JOE"
   },
   {
     "slug": "elk-finance",
@@ -44,7 +46,8 @@
       "harmony"
     ],
     "audited": true,
-    "rating": 7
+    "rating": 7,
+    "native_token": "ELK"
   },
   {
     "slug": "pancakeswap",
@@ -55,7 +58,8 @@
       "bsc"
     ],
     "audited": true,
-    "rating": 10
+    "rating": 10,
+    "native_token": "CAKE"
   },
   {
     "slug": "dodo",
@@ -70,7 +74,8 @@
       "arbitrum"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "DODO"
   },
   {
     "slug": "biswap",
@@ -81,7 +86,8 @@
       "bsc"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "BSW"
   },
   {
     "slug": "wombat-exchange",
@@ -92,7 +98,8 @@
       "bsc"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "WOM"
   },
   {
     "slug": "mdex",
@@ -103,7 +110,8 @@
       "bsc"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "MDEX"
   },
   {
     "slug": "platypus-finance",
@@ -114,7 +122,8 @@
       "avalanche"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": "PTY"
   },
   {
     "slug": "hakuswap",
@@ -125,7 +134,8 @@
       "avalanche"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "HAKU"
   },
   {
     "slug": "uniswap",
@@ -139,7 +149,8 @@
       "polygon"
     ],
     "audited": true,
-    "rating": 10
+    "rating": 10,
+    "native_token": "UNI"
   },
   {
     "slug": "curve",
@@ -156,7 +167,8 @@
       "avalanche"
     ],
     "audited": true,
-    "rating": 10
+    "rating": 10,
+    "native_token": "CRV"
   },
   {
     "slug": "balancer",
@@ -169,7 +181,8 @@
       "polygon"
     ],
     "audited": true,
-    "rating": 10
+    "rating": 10,
+    "native_token": "BAL"
   },
   {
     "slug": "sushiswap",
@@ -189,7 +202,8 @@
       "harmony"
     ],
     "audited": true,
-    "rating": 10
+    "rating": 10,
+    "native_token": "SUSHI"
   },
   {
     "slug": "0x",
@@ -201,7 +215,8 @@
       "polygon"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "0X"
   },
   {
     "slug": "kyberswap",
@@ -221,7 +236,8 @@
       "bittorrent"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "KNC"
   },
   {
     "slug": "quickswap-dex",
@@ -232,7 +248,8 @@
       "polygon"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "QUICK"
   },
   {
     "slug": "ubeswap",
@@ -243,7 +260,8 @@
       "celo"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": "UBE"
   },
   {
     "slug": "mobius-money",
@@ -254,7 +272,8 @@
       "celo"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "MOBI"
   },
   {
     "slug": "vvs-finance",
@@ -265,7 +284,8 @@
       "cronos"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "VVS"
   },
   {
     "slug": "crodex",
@@ -276,7 +296,8 @@
       "cronos"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "CRX"
   },
   {
     "slug": "glide-finance",
@@ -287,7 +308,8 @@
       "elastos"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "GLIDE"
   },
   {
     "slug": "spookyswap",
@@ -298,7 +320,8 @@
       "fantom"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "BOO"
   },
   {
     "slug": "voltage",
@@ -309,7 +332,8 @@
       "fuse"
     ],
     "audited": true,
-    "rating": 7
+    "rating": 7,
+    "native_token": "VOLT"
   },
   {
     "slug": "sunswap",
@@ -320,7 +344,8 @@
       "tron"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "SUN"
   },
   {
     "slug": "unifi",
@@ -341,7 +366,8 @@
       "bittorrent"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "UNFI"
   },
   {
     "slug": "jupiter-aggregator",
@@ -352,7 +378,8 @@
       "solana"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": ""
   },
   {
     "slug": "orca",
@@ -363,7 +390,8 @@
       "solana"
     ],
     "audited": false,
-    "rating": 9
+    "rating": 9,
+    "native_token": "ORCA"
   },
   {
     "slug": "raydium",
@@ -374,7 +402,8 @@
       "solana"
     ],
     "audited": false,
-    "rating": 8
+    "rating": 8,
+    "native_token": "RAY"
   },
   {
     "slug": "osmosis",
@@ -385,7 +414,8 @@
       "cosmos"
     ],
     "audited": false,
-    "rating": 9
+    "rating": 9,
+    "native_token": "OSMO"
   },
   {
     "slug": "defi-swap",
@@ -396,7 +426,8 @@
       "cronos"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": ""
   },
   {
     "slug": "solarbeam",
@@ -407,7 +438,8 @@
       "moonriver"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": "SOLAR"
   },
   {
     "slug": "frax-swap",
@@ -428,7 +460,8 @@
       "polygon"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "FXS"
   },
   {
     "slug": "oolongswap",
@@ -439,7 +472,8 @@
       "boba"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "OLO"
   },
   {
     "slug": "beethoven-x",
@@ -451,7 +485,8 @@
       "optimism"
     ],
     "audited": false,
-    "rating": 8
+    "rating": 8,
+    "native_token": "BEETS"
   },
   {
     "slug": "tomb-swap",
@@ -462,7 +497,8 @@
       "fantom"
     ],
     "audited": false,
-    "rating": 8
+    "rating": 8,
+    "native_token": "TOMB"
   },
   {
     "slug": "mimo",
@@ -473,7 +509,8 @@
       "iotex"
     ],
     "audited": false,
-    "rating": 7
+    "rating": 7,
+    "native_token": ""
   },
   {
     "slug": "serum",
@@ -484,7 +521,8 @@
       "solana"
     ],
     "audited": false,
-    "rating": 8
+    "rating": 8,
+    "native_token": "SRM"
   },
   {
     "slug": "saber",
@@ -495,7 +533,8 @@
       "solana"
     ],
     "audited": false,
-    "rating": 7
+    "rating": 7,
+    "native_token": "SBR"
   },
   {
     "slug": "lifinity",
@@ -506,7 +545,8 @@
       "solana"
     ],
     "audited": false,
-    "rating": 7
+    "rating": 7,
+    "native_token": "LFNTY"
   },
   {
     "slug": "aldrin",
@@ -517,7 +557,8 @@
       "solana"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "RIN"
   },
   {
     "slug": "crema-finance",
@@ -528,7 +569,8 @@
       "solana"
     ],
     "audited": false,
-    "rating": 6
+    "rating": 6,
+    "native_token": "CRM"
   },
   {
     "slug": "clipper",
@@ -541,7 +583,8 @@
       "ethereum"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": ""
   },
   {
     "slug": "hashflow",
@@ -557,13 +600,14 @@
       "avalanche"
     ],
     "audited": true,
-    "rating": 7
+    "rating": 7,
+    "native_token": "HFT"
   },
   {
     "slug": "woofi",
     "title": "WOOFi",
     "logo": "/logos/dexs/woofi.webp",
-    "url": "https://www.hashflow.com/",
+    "url": "https://fi.woo.org/",
     "networks": [
       "bsc",
       "avalanche",
@@ -571,19 +615,21 @@
       "polygon"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": "WOO"
   },
   {
     "slug": "gmx",
     "title": "GMX",
     "logo": "/logos/dexs/gmx.webp",
-    "url": "https://www.hashflow.com/",
+    "url": "https://gmx.io/#/",
     "networks": [
       "arbitrum",
       "avalanche"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": "GMX"
   },
   {
     "slug": "swapr",
@@ -596,7 +642,8 @@
       "gnosis"
     ],
     "audited": true,
-    "rating": 7
+    "rating": 7,
+    "native_token": "SWPR"
   },
   {
     "slug": "saddle-finance",
@@ -608,7 +655,8 @@
       "ethereum"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "SDL"
   },
   {
     "slug": "bancor",
@@ -619,7 +667,8 @@
       "ethereum"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "BNT"
   },
   {
     "slug": "shibaswap",
@@ -630,7 +679,8 @@
       "ethereum"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": "BONE"
   },
   {
     "slug": "templedao",
@@ -641,7 +691,8 @@
       "ethereum"
     ],
     "audited": false,
-    "rating": 6
+    "rating": 6,
+    "native_token": "TEMPLE"
   },
   {
     "slug": "dfx-finance",
@@ -652,18 +703,8 @@
       "ethereum"
     ],
     "audited": true,
-    "rating": 6
-  },
-  {
-    "slug": "mooniswap",
-    "title": "MooniSwap",
-    "logo": "/logos/dexs/mooniswap.webp",
-    "url": "https://mooniswap.exchange/#/swap",
-    "networks": [
-      "ethereum"
-    ],
-    "audited": true,
-    "rating": 5
+    "rating": 6,
+    "native_token": "DFX"
   },
   {
     "slug": "defiplaza",
@@ -674,7 +715,8 @@
       "ethereum"
     ],
     "audited": true,
-    "rating": 5
+    "rating": 5,
+    "native_token": "DFP2"
   },
   {
     "slug": "radioshack",
@@ -689,7 +731,8 @@
       "bsc"
     ],
     "audited": true,
-    "rating": 6
+    "rating": 6,
+    "native_token": "RADIO"
   },
   {
     "slug": "wardenswap",
@@ -704,7 +747,8 @@
       "optimism"
     ],
     "audited": true,
-    "rating": 5
+    "rating": 5,
+    "native_token": "WAD"
   },
   {
     "slug": "apeswap",
@@ -716,7 +760,8 @@
       "bsc"
     ],
     "audited": true,
-    "rating": 9
+    "rating": 9,
+    "native_token": "BANANA"
   },
   {
     "slug": "yoshi-exchange",
@@ -729,7 +774,8 @@
       "fantom"
     ],
     "audited": true,
-    "rating": 5
+    "rating": 5,
+    "native_token": "YOSHI"
   },
   {
     "slug": "openleverage",
@@ -742,7 +788,8 @@
       "kcc"
     ],
     "audited": true,
-    "rating": 7
+    "rating": 7,
+    "native_token": "OLE"
   },
   {
     "slug": "minswap",
@@ -753,7 +800,8 @@
       "cardano"
     ],
     "audited": true,
-    "rating": 8
+    "rating": 8,
+    "native_token": "MIN"
   },
   {
     "slug": "wingriders",
@@ -764,6 +812,7 @@
       "cardano"
     ],
     "audited": true,
-    "rating": 7
+    "rating": 7,
+    "native_token": "WRT"
   }
 ]

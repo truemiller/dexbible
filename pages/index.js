@@ -74,7 +74,7 @@ export default function Home(props) {
 								return <tr key={dex.slug}>
 									<td className={"align-middle"}>{index + 1}</td>
 									<td className={"text-nowrap align-middle text-primary"}>
-										<span><Image src={dex.logo} width={16} height={16} layout={"fixed"} alt={`${dex.title} logo.`}
+										<span className={"align-middle"}><Image className={"rounded-circle border border-dark shadow"} src={dex.logo} width={20} height={20} layout={"fixed"} alt={`${dex.title} logo.`}
 										             title={`${dex.title}`}/></span>
 										<Link href={dex.url}><a className={"ms-2"}>{dex.title}</a></Link>
 									</td>
