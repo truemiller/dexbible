@@ -64,7 +64,7 @@ export default function Home(props) {
 							<tr>
 								<th width={30}>#</th>
 								<th width={200}>Name</th>
-								<th>Rating</th>
+								<th width={100}>Rating</th>
 								<th>Networks</th>
 								<th className={"text-nowrap"}>Native Token</th>
 								<th>Audited</th>
@@ -79,7 +79,11 @@ export default function Home(props) {
 										             title={`${dex.title}`}/></span>
 										<Link href={dex.url}><a className={"ms-2 text-decoration-none"}>{dex.title}</a></Link>
 									</td>
-									<td className={"align-middle"}>{dex.rating}</td>
+									<td className={"align-middle"}>
+										<div className={"progress"}>
+											<span className={"progress-bar bg-success"} aria-valuemax={10} aria-valuemin={0} aria-valuenow={dex.rating} style={{width: `${dex.rating*10}%`}}>{dex.rating}</span>
+										</div>
+									</td>
 									<td className={"align-middle"}>
 										{/*{dex.networks.map((networkSlug, index) => {*/}
 										{/*	return `${networks.find(network => network.slug === networkSlug)?.title}${index + 1 === dex.networks.length ? "" : ", "}`*/}
