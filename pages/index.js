@@ -93,6 +93,7 @@ export default function Home(props) {
 													width={20} height={20} layout={"fixed"}
 													alt={`${networks.find(network => network.slug === networkSlug)?.title} logo`}
 													title={`${networks.find(network => network.slug === networkSlug)?.title}`}
+													className={"border border-dark"}
 												/>
 											})
 										}
