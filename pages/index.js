@@ -121,8 +121,10 @@ export default function Home(props) {
                   <th width={200}>Name</th>
                   <th width={100}>Rating</th>
                   <th>Networks</th>
-                  <th className={"text-nowrap"}>Native Token</th>
-                  <th>Audited</th>
+                  <th className={"text-nowrap ml-auto"} width={150}>
+                    Native Token
+                  </th>
+                  <th width={100}>Audited</th>
                 </tr>
               </thead>
               <tbody>
